@@ -44,6 +44,22 @@ you and what surprised you. Not what the library does, but what you understood.
 </h1>    
 
  Moreover, chapter 5 showed that scaling and normalization help make different features fair and comparable by putting their values on a similar scale. I learned that features with larger numbers can affect a model more, even when they are not necessarily more important. What surprised me most was that scaling is not always required because its importance depends on the data and the machine learning algorithm being used.
+
+ <h1 align="center">
+<b>CHAPTER 6</b>
+</h1>
+
+<h1 align="center">
+<b>CHAPTER 7</b>
+</h1>
+
+<h1 align="center">
+<b>CHAPTER 8</b>
+</h1>
+
+<h1 align="center">
+<b>CHAPTER 9</b>
+</h1>
     
 ## Errors we found
 
