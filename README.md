@@ -15,7 +15,7 @@ Batangas State University, Alangilan Campus
 
 | Chapter | Villafania, John Joseph R. | Member 2 |
 |---|---|---|
-| Ch1_2_3 | https://colab.research.google.com/drive/1tm_Myp5_0fCUcHYmF5ctf-7Rvn10UXLX?usp=drive_link | [link]() |
+| Ch1_2_3 | https://colab.research.google.com/drive/1tm_Myp5_0fCUcHYmF5ctf-7Rvn10UXLX?usp=drive_link | 
 | Ch4 | https://colab.research.google.com/drive/1yQWjCi5YbevDfX7wirgD8sZ-esXaM_gm?usp=drive_link | [link]() |
 | Ch5 | https://colab.research.google.com/drive/1qfbPhtMaFq0baRtYH_cmH-3yI7hEvi2H?usp=drive_link | [link]() |
 | Ch6 | [link]() | [link]() |
