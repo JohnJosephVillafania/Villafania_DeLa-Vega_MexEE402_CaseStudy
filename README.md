@@ -23,6 +23,16 @@ Batangas State University, Alangilan Campus
 | Ch8 | [link]() | [link]() |
 | Ch9 | [link]() | [link]() |
 
+| Chapter | De La Vega, Wincy L. | Member 1 |
+|---|---|---|
+| Ch1_2_3 |  | [link]() |
+| Ch4 |link]()  | [link]() |
+| Ch5 | link]() | [link]() |
+| Ch6 | [link]() | [link]() |
+| Ch7 | [link]() | [link]() |
+| Ch8 | [link]() | [link]() |
+| Ch9 | [link]() | [link]() |
+
 ## What we learned
 
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
