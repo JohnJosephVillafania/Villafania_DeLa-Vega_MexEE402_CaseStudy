@@ -9,7 +9,7 @@ Batangas State University, Alangilan Campus
 | Name | Student Number | Section |
 |---|---|---|
 | Villafania, John Joseph| 22-03102|MEXE-4103 |
-| De La Vega, Wincy | | |
+| De La Vega, Wincy | 22-03102|MEXE-4103 |
 
 ## Notebook links
 
