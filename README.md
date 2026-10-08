@@ -33,7 +33,7 @@ you and what surprised you. Not what the library does, but what you understood.
 
  Ch1_2_3 taught me that data preprocessing is an important step in making raw data useful and reliable because real-world data can contain missing, inconsistent, or unnecessary information. I learned that cleaning and organizing data before analysis can improve the quality of results and make patterns easier to understand. What surprised me most was how missing or messy data can greatly affect the accuracy of the final analysis or model, even before any machine learning is done.
 
-    <h1 align="center">
+<h1 align="center">
 <b>CHAPTER 4</b>
 </h1> 
 Additionaly, chapter 4 demonstrated that feature engineering helps turn simple raw data into more useful information that can reveal patterns and relationships. I learned that combining or transforming features can give a clearer understanding of the data, while encoding allows categorical information to be used properly. What surprised me most was that the way we represent data, such as using one-hot or ordinal encoding, can affect how a model understands the information.
