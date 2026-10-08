@@ -44,6 +44,8 @@ There are real ones in there. Finding them earns points.
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
 
+We used AI tools to understand data scaling, specifically focusing on how StandardScaler impacts a feature's mean and standard deviation to prevent large numbers from dominating a model.  In addition, We relied on AI assistance to analyze  why was the Rank column dropped from the dataset and why it acts as noise in a dataset.
+
 ## References
 
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
