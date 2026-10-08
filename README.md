@@ -36,9 +36,14 @@ you and what surprised you. Not what the library does, but what you understood.
 <h1 align="center">
 <b>CHAPTER 4</b>
 </h1> 
-Additionaly, chapter 4 demonstrated that feature engineering helps turn simple raw data into more useful information that can reveal patterns and relationships. I learned that combining or transforming features can give a clearer understanding of the data, while encoding allows categorical information to be used properly. What surprised me most was that the way we represent data, such as using one-hot or ordinal encoding, can affect how a model understands the information.
-    
-Moreover, chapter 5 showed that scaling and normalization help make different features fair and comparable by putting their values on a similar scale. I learned that features with larger numbers can affect a model more, even when they are not necessarily more important. What surprised me most was that scaling is not always required because its importance depends on the data and the machine learning algorithm being used.
+
+ Chapter 4 demonstrated that feature engineering helps turn simple raw data into more useful information that can reveal patterns and relationships. I learned that combining or transforming features can give a clearer understanding of the data, while encoding allows categorical information to be used properly. What surprised me most was that the way we represent data, such as using one-hot or ordinal encoding, can affect how a model understands the information.
+ 
+<h1 align="center">
+<b>CHAPTER 5</b>
+</h1>    
+
+ Moreover, chapter 5 showed that scaling and normalization help make different features fair and comparable by putting their values on a similar scale. I learned that features with larger numbers can affect a model more, even when they are not necessarily more important. What surprised me most was that scaling is not always required because its importance depends on the data and the machine learning algorithm being used.
     
 ## Errors we found
 
