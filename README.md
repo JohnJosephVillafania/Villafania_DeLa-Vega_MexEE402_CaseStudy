@@ -72,6 +72,11 @@ This chapter discusses how a preprocessing pipeline organizes and automates data
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
+Mistake: Using inplace=True may cause problems in future pandas versions.
+Original code:
+<img width="1467" height="255" alt="image" src="https://github.com/user-attachments/assets/055439e5-9e4f-48d1-9b2a-62c7e34aa58e" />
+
+Correct version:
 <img width="517" height="53" alt="image" src="https://github.com/user-attachments/assets/2f254db4-5394-498a-86b8-d0ccb2dd5ba9" />
 
 
