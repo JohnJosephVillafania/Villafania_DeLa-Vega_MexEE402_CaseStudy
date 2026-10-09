@@ -69,9 +69,6 @@ This chapter discusses how a preprocessing pipeline organizes and automates data
  
 ## Errors we found
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
-
 **Mistakes Found in the Original Notebooks and Their Correct Versions**
 
 **Chapter 3: Data Imputation**
