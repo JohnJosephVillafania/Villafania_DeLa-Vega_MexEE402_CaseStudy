@@ -76,32 +76,32 @@ There are real ones in there. Finding them earns points.
 
 **Chapter 3: Data Imputation**
 
-Mistake: Using inplace=True may cause problems in future pandas versions.
+**Mistake:** Using inplace=True may cause problems in future pandas versions.
 
 Original code:
 
 <img width="1467" height="255" alt="image" src="https://github.com/user-attachments/assets/055439e5-9e4f-48d1-9b2a-62c7e34aa58e" />
 
-Correct version:
+**Correct version:**
 
 <img width="517" height="53" alt="image" src="https://github.com/user-attachments/assets/2f254db4-5394-498a-86b8-d0ccb2dd5ba9" />
 
 **Chapter 6: Dealing with Outliers**
 
-Mistake: The statement in the notebook state that 100 is a clear outlier using Z-score method.
+**Mistake:** The statement in the notebook state that 100 is a clear outlier using Z-score method.
 
-Correct version: The Z-score of 100 is approximately 2.61501265, which is not more than 3; therefore, it is not classified as an outlier using the Z-score method.
+**Correct version:** The Z-score of 100 is approximately 2.61501265, which is not more than 3; therefore, it is not classified as an outlier using the Z-score method.
 
 **Chapter 7: Feature Selection Using RFECV**
 
-Mistake: The original code uses five-fold cross-validation (cv=5), which produces warnings that the R^2
+**Mistake:** The original code uses five-fold cross-validation (cv=5), which produces warnings that the R^2
  score is not well-defined when a validation fold contains fewer than two samples.
 
  Original code:
 
  <img width="1072" height="453" alt="image" src="https://github.com/user-attachments/assets/92d212b9-ee8f-485b-8ad3-b933382ee06a" />
  
-Correct version:
+**Correct version:**
 
 <img width="766" height="193" alt="image" src="https://github.com/user-attachments/assets/c42cf7c9-e498-4b03-bb6e-12c81be24e9d" />
 
