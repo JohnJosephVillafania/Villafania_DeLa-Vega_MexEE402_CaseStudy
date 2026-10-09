@@ -13,11 +13,11 @@ Batangas State University, Alangilan Campus
 
 ## Notebook links
 
-| Chapter | Villafania, John Joseph R. | DeLa Vega, Wincy L|
+| Chapter | Villafania, John Joseph | DeLa Vega, Wincy|
 |---|---|---|
-| Ch1_2_3 | https://colab.research.google.com/drive/1tm_Myp5_0fCUcHYmF5ctf-7Rvn10UXLX?usp=drive_link | [link]() |
-| Ch4 | https://colab.research.google.com/drive/1yQWjCi5YbevDfX7wirgD8sZ-esXaM_gm?usp=drive_link | [link]() |
-| Ch5 | https://colab.research.google.com/drive/1qfbPhtMaFq0baRtYH_cmH-3yI7hEvi2H?usp=drive_link | [link]() |
+| Ch1_2_3 | [Ch1_2_3_Villafania_DeLa Vega](https://colab.research.google.com/drive/1tm_Myp5_0fCUcHYmF5ctf-7Rvn10UXLX?usp=drive_link) | [link]() |
+| Ch4 | [link]() | [link]() |
+| Ch5 | [link]() | [link]() |
 | Ch6 | [link]() | (https://colab.research.google.com/drive/183K6aYaUs_dveQ27C5JiO9L6m9lb9vUG#scrollTo=xw-ulSLhnqbd) |
 | Ch7 | [link]() | (https://colab.research.google.com/drive/1mJO1qrH2w9SYjA-TQhIUeF3nJ3vFqK8n#scrollTo=BqyCrcWOwGRZ) |
 | Ch8 | [link]() | (https://colab.research.google.com/drive/14KXqovNIiOHcwa0oW5ZjkXPdz6tL0zdV#scrollTo=lLq58yLJw8jx) |
