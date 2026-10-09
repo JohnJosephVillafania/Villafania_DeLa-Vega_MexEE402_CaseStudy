@@ -84,11 +84,13 @@ Original code:
 <img width="517" height="53" alt="image" src="https://github.com/user-attachments/assets/2f254db4-5394-498a-86b8-d0ccb2dd5ba9" />
 
 
+
 **Chapter 6: Dealing with Outliers**
 
 **Mistake:** The statement in the notebook state that 100 is a clear outlier using Z-score method.
 
 **Correct version:** The Z-score of 100 is approximately 2.61501265, which is not more than 3; therefore, it is not classified as an outlier using the Z-score method.
+
 
 
 **Chapter 7: Feature Selection Using RFECV**
