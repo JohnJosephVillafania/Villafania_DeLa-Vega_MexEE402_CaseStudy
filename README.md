@@ -49,7 +49,7 @@ Chapter 5 showed that scaling and normalization help make different features fai
 <b>CHAPTER 6</b>
 </h1>
 
-This chapteer explains that outliers are values that differ greatly from most of the data and can affect the accuracy of analysis and results. It introduces the Z-score and IQR methods for detecting outliers, along with techniques such as capping and flooring, log transformation, and removal to manage them. What is surprising is that even one extreme value can influence the results and lead to incorrect conclusions. However, outliers should be carefully examined before removing them because they may contain important information.
+This chapter explains that outliers are values that differ greatly from most of the data and can affect the accuracy of analysis and results. It introduces the Z-score and IQR methods for detecting outliers, along with techniques such as capping and flooring, log transformation, and removal to manage them. What is surprising is that even one extreme value can influence the results and lead to incorrect conclusions. However, outliers should be carefully examined before removing them because they may contain important information.
 
 <h1 align="center">
 <b>CHAPTER 7</b>
@@ -61,12 +61,14 @@ Chapter 7 explains how feature selection helps identify the most useful variable
 <b>CHAPTER 8</b>
 </h1>
 
-This chapter explains how a preprocessing pipeline organizes and automates data preparation before it is used in machine learning. It covers the use of tools such as SimpleImputer to fill missing values, StandardScaler to standardize numerical data. What is surprising is that automating these steps can reduce errors, save time, and ensure consistent results when processing new data. This chapter highlights how pipelines make data preparation easier, more organized, and more reliable.
+This chapter discusses how a preprocessing pipeline organizes and automates data preparation before it is used in machine learning. It covers the use of tools such as SimpleImputer to fill missing values, StandardScaler to standardize numerical data. What is surprising is that automating these steps can reduce errors, save time, and ensure consistent results when processing new data. This chapter highlights how pipelines make data preparation easier, more organized, and more reliable.
 
 <h1 align="center">
 <b>CHAPTER 9</b>
 </h1>
-    
+
+ This chapter covers cleaning missing values, transforming numerical data, removing unnecessary features, grouping ages into categories, and converting categorical data into numerical form. What is surprising is that preparing a dataset involves more than simply fixing errors because each feature may require a different preprocessing technique. This chapter emphasizes the importance of checking data quality after preprocessing to ensure that the dataset is organized, consistent, and ready for further analysis.
+ 
 ## Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.
