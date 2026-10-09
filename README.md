@@ -109,7 +109,7 @@ Original code:
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
 
-We used AI tools to understand data scaling, specifically focusing on how StandardScaler impacts a feature's mean and standard deviation to prevent large numbers from dominating a model.  In addition, We relied on AI assistance to analyze  why was the Rank column dropped from the dataset and why it acts as noise in a dataset. Furthermore, AI was used to explain the code and generate more suitable solutions to fix the warnings in chapter 3 and 7.
+We used AI tools to understand data scaling, specifically focusing on how StandardScaler impacts a feature's mean and standard deviation to prevent large numbers from dominating a model.  In addition, We relied on AI assistance to analyze  why was the Rank column dropped from the dataset and why it acts as noise in a dataset. Furthermore, AI was used to explain the code and generate more suitable solutions to fix the warnings in chapter 3 and 7. Another way we employ AI is to obtain examples and explanations, particularly for words and terminology that are challenging to understand. 
 
 ## References
 
