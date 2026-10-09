@@ -48,11 +48,14 @@ Chapter 5 showed that scaling and normalization help make different features fai
  <h1 align="center">
 <b>CHAPTER 6</b>
 </h1>
+
 This chapteer explains that outliers are values that differ greatly from most of the data and can affect the accuracy of analysis and results. It introduces the Z-score and IQR methods for detecting outliers, along with techniques such as capping and flooring, log transformation, and removal to manage them. What is surprising is that even one extreme value can influence the results and lead to incorrect conclusions. However, outliers should be carefully examined before removing them because they may contain important information.
 
 <h1 align="center">
 <b>CHAPTER 7</b>
 </h1>
+
+Chapter 7 explains how feature selection helps identify the most useful variables for building accurate predictive models. It discusses correlation, which measures the relationship between variables, and the three main feature selection methods: filter, wrapper, and embedded methods. What is surprising is that using too many features does not always improve a model because irrelevant information can reduce its performance. This chapter highlights the importance of choosing the right features to make data analysis more efficient and reliable.
 
 <h1 align="center">
 <b>CHAPTER 8</b>
