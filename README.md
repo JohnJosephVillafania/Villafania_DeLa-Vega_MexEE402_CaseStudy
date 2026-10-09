@@ -31,23 +31,24 @@ you and what surprised you. Not what the library does, but what you understood.
 <b>CHAPTER 1_2_3</b>
 </h1> 
 
- Ch1_2_3 taught me that data preprocessing is an important step in making raw data useful and reliable because real-world data can contain missing, inconsistent, or unnecessary information. I learned that cleaning and organizing data before analysis can improve the quality of results and make patterns easier to understand. What surprised me most was how missing or messy data can greatly affect the accuracy of the final analysis or model, even before any machine learning is done.
+ Ch1_2_3 taught us that data preprocessing is an important step in making raw data useful and reliable because real-world data can contain missing, inconsistent, or unnecessary information. We learned that cleaning and organizing data before analysis can improve the quality of results and make patterns easier to understand. What surprised us most was how missing or messy data can greatly affect the accuracy of the final analysis or model, even before any machine learning is done.
 
 <h1 align="center">
 <b>CHAPTER 4</b>
 </h1> 
 
- Chapter 4 demonstrated that feature engineering helps turn simple raw data into more useful information that can reveal patterns and relationships. I learned that combining or transforming features can give a clearer understanding of the data, while encoding allows categorical information to be used properly. What surprised me most was that the way we represent data, such as using one-hot or ordinal encoding, can affect how a model understands the information.
+ Chapter 4 demonstrated that feature engineering helps turn simple raw data into more useful information that can reveal patterns and relationships. We learned that combining or transforming features can give a clearer understanding of the data, while encoding allows categorical information to be used properly. What surprised us most was that the way we represent data, such as using one-hot or ordinal encoding, can affect how a model understands the information.
  
 <h1 align="center">
 <b>CHAPTER 5</b>
 </h1>    
 
- Moreover, chapter 5 showed that scaling and normalization help make different features fair and comparable by putting their values on a similar scale. I learned that features with larger numbers can affect a model more, even when they are not necessarily more important. What surprised me most was that scaling is not always required because its importance depends on the data and the machine learning algorithm being used.
+Chapter 5 showed that scaling and normalization help make different features fair and comparable by putting their values on a similar scale. We learned that features with larger numbers can affect a model more, even when they are not necessarily more important. What surprised us most was that scaling is not always required because its importance depends on the data and the machine learning algorithm being used.
 
  <h1 align="center">
 <b>CHAPTER 6</b>
 </h1>
+This chapteer explains that outliers are values that differ greatly from most of the data and can affect the accuracy of analysis and results. It introduces the Z-score and IQR methods for detecting outliers, along with techniques such as capping and flooring, log transformation, and removal to manage them. What is surprising is that even one extreme value can influence the results and lead to incorrect conclusions. However, outliers should be carefully examined before removing them because they may contain important information.
 
 <h1 align="center">
 <b>CHAPTER 7</b>
