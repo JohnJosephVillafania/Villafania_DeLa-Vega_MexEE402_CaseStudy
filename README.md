@@ -72,6 +72,8 @@ This chapter discusses how a preprocessing pipeline organizes and automates data
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
+
+
 ## Note on AI tools
 
 Say whether you used an AI tool, and what for. This is not a penalty.
