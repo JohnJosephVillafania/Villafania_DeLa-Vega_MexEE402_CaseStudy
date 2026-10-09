@@ -72,6 +72,10 @@ This chapter discusses how a preprocessing pipeline organizes and automates data
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
+**Mistakes Found in the Original Notebooks and Their Correct Versions**
+
+Chapter 1–3: Data Imputation
+
 Mistake: Using inplace=True may cause problems in future pandas versions.
 
 Original code:
@@ -80,6 +84,20 @@ Original code:
 Correct version:
 
 <img width="517" height="53" alt="image" src="https://github.com/user-attachments/assets/2f254db4-5394-498a-86b8-d0ccb2dd5ba9" />
+
+Chapter 7: Feature Selection Using RFECV
+
+Mistake: The original code uses five-fold cross-validation (cv=5), which produces warnings that the R^2
+ score is not well-defined when a validation fold contains fewer than two samples.
+
+ Original code:
+
+ <img width="1072" height="453" alt="image" src="https://github.com/user-attachments/assets/92d212b9-ee8f-485b-8ad3-b933382ee06a" />
+ 
+Correct version:
+
+<img width="766" height="193" alt="image" src="https://github.com/user-attachments/assets/c42cf7c9-e498-4b03-bb6e-12c81be24e9d" />
+
 
 
 ## Note on AI tools
