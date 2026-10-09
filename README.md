@@ -73,6 +73,7 @@ List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
 Mistake: Using inplace=True may cause problems in future pandas versions.
+
 Original code:
 <img width="1467" height="255" alt="image" src="https://github.com/user-attachments/assets/055439e5-9e4f-48d1-9b2a-62c7e34aa58e" />
 
