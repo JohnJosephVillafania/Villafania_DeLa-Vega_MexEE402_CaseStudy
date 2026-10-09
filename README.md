@@ -86,6 +86,7 @@ Correct version:
 
 <img width="517" height="53" alt="image" src="https://github.com/user-attachments/assets/2f254db4-5394-498a-86b8-d0ccb2dd5ba9" />
 
+
 **Chapter 7: Feature Selection Using RFECV**
 
 Mistake: The original code uses five-fold cross-validation (cv=5), which produces warnings that the R^2
