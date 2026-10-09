@@ -72,6 +72,7 @@ This chapter discusses how a preprocessing pipeline organizes and automates data
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
+<img width="517" height="53" alt="image" src="https://github.com/user-attachments/assets/2f254db4-5394-498a-86b8-d0ccb2dd5ba9" />
 
 
 ## Note on AI tools
