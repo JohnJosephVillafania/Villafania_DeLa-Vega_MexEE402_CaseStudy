@@ -61,6 +61,8 @@ Chapter 7 explains how feature selection helps identify the most useful variable
 <b>CHAPTER 8</b>
 </h1>
 
+This chapter explains how a preprocessing pipeline organizes and automates data preparation before it is used in machine learning. It covers the use of tools such as SimpleImputer to fill missing values, StandardScaler to standardize numerical data. What is surprising is that automating these steps can reduce errors, save time, and ensure consistent results when processing new data. This chapter highlights how pipelines make data preparation easier, more organized, and more reliable.
+
 <h1 align="center">
 <b>CHAPTER 9</b>
 </h1>
